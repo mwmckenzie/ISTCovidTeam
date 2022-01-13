@@ -1,6 +1,6 @@
 # IST-184 COVID Data Github Repository
 ## About The IST-184 COVID Data Github Repository
-This Github Repo is intended to be used as a central hub for storing, sharing, and collaborating datasets and other information used by the IST-184 COVID team.
+This Github Repo is intended to be used as a central hub and collaboration space for the storing, sharing, and exploration of datasets and other information used by the IST-184 COVID team.
 
 ## Current State
 This repo is still in the very earliest stages of set-up and population. Literally everything should be considered a work-in-progress.
