@@ -10,12 +10,7 @@ A number of data sets pulled from a few different sources have been uploaded in 
 Additionally, metadata and other reference information has been pulled with all data sets and is stored within the Reference Library.
 
 ## Questions & Requests
-Edit this document by clicked in the upper-right. Add your questions to the list in the questions section. Add your requests to the list in the requests section. I'll be investigating creating additional sections for each, or moving these functions to another part of the repo at a later date.
+A discussion forum has been created expressly to make it easy to ask questions, make suggestions, or post requests for changes to the repo or the datasets. The discussion section can be found in the repo navigation bar. Alternatively, follow this [link](https://github.com/mwmckenzie/ISTCovidTeam/discussions/1)
 
-### Questions
-  - Add questions here
-  - And here
-
-### Requests
-  - Add requests here
-  - And here
+## A Team Repo
+This is intended to be a team repository, so feel free to update and contribute anywhere and everywhere. Changes can always be rolled-back in the event of catastrophe... Probably! ;)
