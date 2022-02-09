@@ -10,6 +10,7 @@ A number of data sets pulled from a few different sources have been uploaded in 
 Work has begun to clean, partition, and organize the data sets for various applications and use-cases.
 ### Example Files and Demos Folder
 Added a root folder for storing and sharing application, language, or platform specific workflows, methodologies, and techniques. Create a folder within the applicable application/langauge folder and then add your application file and any other required files/folders necessary for the example or demo to successfully execute. 
+#### Note
 If the example will require data or files outside of the folder, consider creating or adding a readme file or help text with clarifying instructions or an api description.
 ## Questions & Requests
 A discussion forum has been created expressly to make it easy to ask questions, make suggestions, or post requests for changes to the repo or the datasets. The discussion section can be found in the repo navigation bar. Alternatively, follow this [link](https://github.com/mwmckenzie/ISTCovidTeam/discussions/1)
