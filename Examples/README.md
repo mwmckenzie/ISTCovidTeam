@@ -11,3 +11,4 @@ Folders within the example root folder will initially be subdivided by applicati
 ## Sub-folder Structure
 
 Within each application, language, or platform folder will be a separate folder for each example or demo. All folders, files, and other dependencies for the example or demo should be included within the example/demo sub-folder.
+> If the example/demo will require data or files outside of the folder, consider creating/adding a readme file or help text with clarifying instructions or an API description.
